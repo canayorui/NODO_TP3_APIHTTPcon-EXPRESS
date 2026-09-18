@@ -1,0 +1,24 @@
+{
+  "name": "nodo_tp3",
+  "version": "1.0.0",
+  "description": "Trabajo práctico 03 - API HTTP con Express",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js src/archivos.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canayorui/NODO_TP3_APIHTTPcon-EXPRESS.git"
+  },
+  "keywords": ["express", "api", "instrumentos"],
+  "author": "Sheyla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canayorui/NODO_TP3_APIHTTPcon-EXPRESS/issues"
+  },
+  "homepage": "https://github.com/canayorui/NODO_TP3_APIHTTPcon-EXPRESS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

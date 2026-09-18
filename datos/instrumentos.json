@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra",
+    "familia": "Cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de seis cuerdas usado en música popular y clásica.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Violín",
+    "familia": "Cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de cuatro cuerdas tocado con arco.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Trompeta",
+    "familia": "Viento",
+    "origen": "Europa",
+    "descripcion": "Instrumento de metal con válvulas.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Batería",
+    "familia": "Percusión",
+    "origen": "EE.UU.",
+    "descripcion": "Conjunto de tambores y platillos.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Flauta",
+    "familia": "Viento",
+    "origen": "Alemania",
+    "descripcion": "Instrumento de viento de madera o metal.",
+    "disponible": true
+  }
+]
