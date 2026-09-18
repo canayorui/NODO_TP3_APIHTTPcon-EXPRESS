@@ -20,7 +20,7 @@ Instalar dependencias:
 
 npm install
 
-🚀 Ejecución
+Ejecución
 
 Iniciar el servidor:
 
